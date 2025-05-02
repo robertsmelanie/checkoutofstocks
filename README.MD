@@ -1,0 +1,1 @@
+The idea was to create a quick tool that could look at a store or account in shopify and tell you which things were out of stock in a quicker more efficient manner.
